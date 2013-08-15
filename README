@@ -1,0 +1,3 @@
+Find all versions of a command in current (unix) file system.
+
+findcmds.sh <program>
